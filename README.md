@@ -1,2 +1,2 @@
-# store_management
-Group project for CSE370 BRACU
+# STOP ONE
+Project for CSE470
